@@ -16,19 +16,19 @@ At Woldreamz Inc, I work with a dynamic team of skilled developers and cybersecu
 
 ### Expertise
 
-- **Languages:** Python, JavaScript, Java, PHP
-- **Frameworks:** React, Django, Node.js, Ionic
-- **Technologies:** AI/ML, Blockchain, IoT
+- Languages: Python, JavaScript, Java, PHP
+- Frameworks: React, Django, Node.js, Ionic
+- Technologies: AI/ML, Blockchain, IoT
 
 ### Projects
 
-1. **Smart Solutions App**
+1. Smart Solutions App
    - Developed an innovative mobile app leveraging AI for personalized user experiences.
 
-2. **Blockchain Voting System**
+2. Blockchain Voting System
    - Engineered a secure and transparent voting system using blockchain technology.
 
-3. **IoT Home Automation**
+3. IoT Home Automation
    - Designed and implemented a home automation system for enhanced comfort and security.
 
 ### Achievements
