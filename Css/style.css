@@ -1,10 +1,35 @@
-html, body {
+body {
+    font-size: 16px; /* Default font size for desktop */
     margin:0;
-     padding:0;
+    padding:0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
   }
   
+  @media (max-width: 768px) {
+    body {
+      font-size: 14px; /* Adjust font size for smaller screens */
+    }
+  }
+  
+  /* Add these styles to your style.css */
+
+.Nav-bar nav ul {
+  transition: max-height 0.3s ease-in-out;
+  max-height: 0;
+  
+}
+
+.Nav-bar nav ul.show {
+  max-height: 500px; /* Adjust this value as needed */
+}
+
+/* Add smooth scrolling effect to anchor links */
+html {
+  scroll-behavior: smooth;
+}
+
+
   header{
     width: 92%;
     margin: 0 auto;
@@ -103,6 +128,8 @@ html, body {
 
   .main-img{
     width:40%;
+    max-width: 100%;
+    height: auto;
   }
 
   .bdy{
